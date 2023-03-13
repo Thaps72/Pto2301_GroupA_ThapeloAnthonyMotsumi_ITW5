@@ -1,0 +1,47 @@
+/*-default-*/
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+
+/*-header-styles*/
+.header{
+   background-color: rgba(46, 211, 244, 0.764);
+   width: 100%;
+   padding: 10px;
+}
+
+.header img{
+    width: 10%;
+    border-radius: 50%;
+}
+
+.header p{
+    margin-top: 5px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;  
+}
+
+/*-socialslink-styles*/
+.social-links{
+padding: 7px;
+}
+
+.fa-regular,.fa-brands, .fa-solid{
+    color: #fff;
+    
+}
+
+/*-socialslink-styles
+.left-colum-main{
+background: #fff;
+width: 100%;
+margin-left: 20px;
+}
+
+.work {
+    border-bottom: 5px solid rgba(244, 175, 46, 0.764);
+    padding: 3px;
+}
+*/
